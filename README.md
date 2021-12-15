@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour et bienvenue sur mon GitHub 👋
+
+### EN COURS DE CONSTRUCTION
 
 <!--
 **DevCreationsCR/DevCreationsCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
